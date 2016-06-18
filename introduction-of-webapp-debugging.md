@@ -107,7 +107,11 @@ href="..."
 
 # ネットワークモニター
 
-* ...
+* ネットワークリクエストの詳細を表示
+  * HTTPステータス
+  * リクエスト/レスポンス
+
+{::note} https://developer.mozilla.org/ja/docs/Tools/Network_Monitor {:/note}
 
 # ネットワークモニター
 
@@ -115,33 +119,13 @@ href="..."
 
 # Webサーバーのログ
 
-* Railsとか
+* Apache/nginx
 
 # アプリケーションサーバーのログ
 
-* ...
+* Sinatra/Rails
 
-# おまけ
+# まとめ
 
-法人向けFirefoxサポートで得た知見
-
-# おまけ
-
-* DOM Inspector
-* ブラウザツールボックス
-
-# DOM Inspector
-
-* ...
-
-# DOM Inspector
-
-デモ
-
-# ブラウザツールボックス
-
-* ...
-
-# ブラウザツールボックス
-
-デモ
+* 標準ツールが充実
+* クライアントかサーバーか切り分ける
