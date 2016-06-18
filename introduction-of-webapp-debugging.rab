@@ -1,4 +1,4 @@
-= タイトル
+= Webアプリデバッグ入門
 
 # : subtitle
 #    サブタイトル
@@ -6,23 +6,90 @@
    Masafumi Yokoyama
 # : institution
 #    所属
-# : content-source
-#    イベント名
-# : date
-#    2016-06-18
-# : allotted-time
-#    5m
+: content-source
+   勉強会@Sinatra札幌
+: date
+   2016-06-19
+: allotted-time
+   40m
 : theme
    nyankosakana
 
-= 最初のスライド
+= デバッグとは
 
-  * 項目1
-  * 項目2
-  * 項目3
+* バグを見つける
+* バグを直す
 
-= 二番目のスライド
+= デバッグとは
 
-  # image
-  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
-  # relative_height = 100
+* *バグを見つける*
+* バグを直す
+
+= バグを見つける
+
+* デバッグツール
+
+= デバッグツール
+
+* Firefox/Google Chrome標準添付
+  * F12で出てくるやつ
+  * 標準添付のツールが充実してきたので、Live HTTP HeadersやHttpFox、Findbugsなどは不要になってきている
+
+= バグを見つける
+
+* どちらのエラーか
+  * クライアント
+  * サーバー
+
+= バグを見つける
+
+* クライアント
+  * 要素を調査
+  * Webコンソール
+* サーバー
+  * ネットワークモニター
+
+= 要素を調査
+
+* ...
+
+= Webコンソール
+
+* ...
+
+= Webコンソール
+
+デモ
+
+= ネットワークモニター
+
+* ...
+
+= ネットワークモニター
+
+デモ
+
+= おまけ
+
+法人向けFirefoxサポートで得た知見
+
+= おまけ
+
+* DOM Inspector
+* ブラウザツールボックス
+
+= DOM Inspector
+
+* ...
+
+= DOM Inspector
+
+デモ
+
+= ブラウザツールボックス
+
+* ...
+
+= ブラウザツールボックス
+
+デモ
