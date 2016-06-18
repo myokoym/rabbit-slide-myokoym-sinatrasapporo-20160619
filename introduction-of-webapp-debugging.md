@@ -1,47 +1,47 @@
-= Webアプリデバッグ入門
+# Webアプリデバッグ入門
 
-# : subtitle
-#    サブタイトル
-: author
-   Masafumi Yokoyama
-# : institution
-#    所属
-: content-source
-   勉強会@Sinatra札幌
-: date
-   2016-06-19
-: allotted-time
-   40m
-: theme
-   nyankosakana
+author
+:   Masafumi Yokoyama
 
-= デバッグとは
+content-source
+:   勉強会@Sinatra札幌
+
+date
+:   2016-06-19
+
+allotted-time
+:   40m
+
+theme
+:   nyankosakana
+
+# デバッグとは
 
 * バグを見つける
 * バグを直す
 
-= デバッグとは
+# デバッグとは
 
 * *バグを見つける*
 * バグを直す
 
-= バグを見つける
+# バグを見つける
 
 * デバッグツール
 
-= デバッグツール
+# デバッグツール
 
 * Firefox/Google Chrome標準添付
   * F12で出てくるやつ
   * 標準添付のツールが充実してきたので、Live HTTP HeadersやHttpFox、Findbugsなどは不要になってきている
 
-= バグを見つける
+# バグを見つける
 
 * どちらのエラーか
   * クライアント
   * サーバー
 
-= バグを見つける
+# バグを見つける
 
 * クライアント
   * 要素を調査
@@ -49,47 +49,47 @@
 * サーバー
   * ネットワークモニター
 
-= 要素を調査
+# 要素を調査
 
 * ...
 
-= Webコンソール
+# Webコンソール
 
 * ...
 
-= Webコンソール
+# Webコンソール
 
 デモ
 
-= ネットワークモニター
+# ネットワークモニター
 
 * ...
 
-= ネットワークモニター
+# ネットワークモニター
 
 デモ
 
-= おまけ
+# おまけ
 
 法人向けFirefoxサポートで得た知見
 
-= おまけ
+# おまけ
 
 * DOM Inspector
 * ブラウザツールボックス
 
-= DOM Inspector
+# DOM Inspector
 
 * ...
 
-= DOM Inspector
+# DOM Inspector
 
 デモ
 
-= ブラウザツールボックス
+# ブラウザツールボックス
 
 * ...
 
-= ブラウザツールボックス
+# ブラウザツールボックス
 
 デモ

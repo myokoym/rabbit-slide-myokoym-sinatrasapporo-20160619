@@ -11,7 +11,7 @@ ustream_id:
 vimeo_id: 
 youtube_id: 
 author:
-  markup_language: :rd
+  markup_language: :md
   name: Masafumi Yokoyama
   email: myokoym@gmail.com
   rubygems_user: myokoym
