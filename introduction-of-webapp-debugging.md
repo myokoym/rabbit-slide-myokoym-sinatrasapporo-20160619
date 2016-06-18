@@ -87,9 +87,9 @@ href="..."
 
 # Webコンソール
 
-* JavaScriptのログ
+* JavaScriptなどのログを記録
   * console.log
-* JavaScriptのコードを実行して試すこともできる
+* JavaScriptのコードを実行してWebページと対話
 
 # Webコンソール
 
