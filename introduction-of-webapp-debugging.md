@@ -64,6 +64,8 @@ theme
   * 要素(element)があるか
   * 属性(attribute)があるか
 
+{::note}https://developer.mozilla.org/ja/docs/Tools/Page_Inspector{:/note}
+
 # 要素
 
 ```html
@@ -90,6 +92,8 @@ href="..."
 * JavaScriptなどのログを記録
   * console.log
 * JavaScriptのコードを実行してWebページと対話
+
+{::note}https://developer.mozilla.org/ja/docs/Tools/Web_Console{:/note}
 
 # Webコンソール
 
