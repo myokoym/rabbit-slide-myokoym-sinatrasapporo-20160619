@@ -53,7 +53,7 @@ theme
 
 * Firefox/Google Chrome標準添付
   * F12で出てくるやつ
-  * 標準添付のツールが充実してきたので、Live HTTP HeadersやHttpFox、Findbugsなどは不要になってきている
+  * 標準添付のツールが充実してきたので、Live HTTP HeadersやHttpFox、Firebugなどは不要になってきている
 
 # デバッグツール
 
