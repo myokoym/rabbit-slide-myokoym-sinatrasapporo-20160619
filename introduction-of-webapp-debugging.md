@@ -132,6 +132,13 @@ href="..."
 
 デモ
 
+# WebSocketモニタ
+
+WebSocket接続のやり取りのモニタリングはアドオンで可能
+
+* WebSocket Monitor
+  * {::note} https://addons.mozilla.org/en-US/firefox/addon/websocket-monitor/ {:/note}
+
 # バグを見つける
 
 * ~~デバッグツール~~
